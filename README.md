@@ -6,4 +6,4 @@ NextJS, DaisyUI, PokeAPI
 
 ## Deployment
 
-fedopokedex.vercel.app/
+https://fedopokedex.vercel.app/
