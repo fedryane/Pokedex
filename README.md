@@ -3,3 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Stack
 
 NextJS, DaisyUI, PokeAPI
+
+## Deployment
+
+fedopokedex.vercel.app/
